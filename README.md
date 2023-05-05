@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Omar Sanad</h1>
 <h3 align="center">Competitive Programmer</h3>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=CS%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
+
+
 - 🌱 I’m currently learning **Computer Science**
 
 - 📫 How to reach me **omarmohamedsanad3@gmail.com**
