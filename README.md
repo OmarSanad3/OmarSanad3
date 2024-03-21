@@ -13,7 +13,7 @@
 - :school: I’m a **Computer Science** student @ [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
 - :trophy: `ECPC` Finalist.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `geeksforgeeks`.
-- :thinking: I’m currently open for a `Software Internship`, this is [MY RESUME]().
+- :thinking: I’m currently open for a `Software Internship`, this is [MY RESUME](Omar_Sanad_Resume.pdf).
 <br>
 
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
