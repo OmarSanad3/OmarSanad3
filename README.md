@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=999999&center=true&vCenter=true&random=false&width=435&lines=CS+Student;Competitive+Programmer;ECPC+Finalist;IT+Head+%40+ICPC+SCU" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=999999&center=true&vCenter=true&random=false&width=435&lines=CS+Student;Competitive+Programmer;ACPC+Finalist;" alt="Typing SVG" /></a>
 </p>
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
@@ -11,7 +11,7 @@
 
 <br><br>
 - :school: I’m a student at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
-- :trophy: `ECPC` Finalist.
+- :trophy: `ACPC` Finalist.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `geeksforgeeks`.
 - :thinking: I’m currently open for a `Software Internship`, this is [MY RESUME](Omar_Sanad_Resume.pdf).
 <br>
