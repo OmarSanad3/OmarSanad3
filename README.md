@@ -47,10 +47,10 @@
 ### Programming languages
 
 <p align="center"> 
-  &emsp; 
+  &emsp;
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a> 
+  </a>
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
@@ -58,6 +58,10 @@
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+   </a>
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript" target="_blank"> 
+     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
    </a>
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
@@ -73,21 +77,50 @@
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
+  <a href="https://react.dev/" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  </a>
+  &emsp;
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://reactrouter.com/" target="_blank">
+    <img alt="React Router" src="https://img.shields.io/badge/React_Router%20-%23CA4245.svg?style=plastic&logo=react-router&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://redux-toolkit.js.org/" target="_blank">
+    <img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux_Toolkit%20-%23764ABC.svg?style=plastic&logo=redux&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS%20-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://github.com/css-modules/css-modules" target="_blank">
+    <img alt="CSS Modules" src="https://img.shields.io/badge/CSS_Modules%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://styled-components.com/" target="_blank">
+    <img alt="Styled Components" src="https://img.shields.io/badge/Styled_Components%20-%23DB7093.svg?style=plastic&logo=styled-components&logoColor=white">
+  </a>
 </p>
+
 
  ### Software & Tools
  
